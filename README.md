@@ -37,11 +37,11 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente local
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/Node-IoRedis-Typescript.git
+    git clone https://github.com/Adolfo-Machado/Node-Redis-Typescript-v2.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd Node-IoRedis-Typescript
+    cd Node-Redis-Typescript-v2
     ```
 3.  Instale as dependências:
     ```bash
